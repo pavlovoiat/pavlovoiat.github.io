@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const commands = {
         'help': 'Verfügbare Befehle: <span class="text-emerald-400">skills</span>, <span class="text-emerald-400">projects</span>, <span class="text-emerald-400">fastfetch</span>, <span class="text-emerald-400">contact</span>, <span class="text-emerald-400">clear</span>',
-        'skills': 'Languages: Kotlin, Java, Python, C, C#, JS<br>OS/Tools: Arch Linux, Hyprland, Git, Bash, VSCodium<br>Frameworks: Jetpack Compose, Godot, Blender',
+        'skills': 'OS: Arch Linux, Hyprland<br>Tools: Git, Bash, VSCodium, Android Studio, Godot, Blender<br>Languages: Kotlin, Java, Python, C, C#, JavaScript, GDScript<br>Frameworks: Jetpack Compose',
         'projects': '1. <b>Amberoid</b>: Native Android audio player in Kotlin & Compose<br>2. <b>Termux Ecosystem</b>: Custom Android CLI dev environment<br>3. <b>Godot 3D</b>: Interactive game mechanics & low-poly assets',
         'contact': 'E-Mail: <a href="mailto:voiatpavlo1@gmail.com" class="underline text-emerald-400">voiatpavlo1@gmail.com</a><br>GitHub: <a href="https://github.com/pavlovoiat" target="_blank" class="underline text-emerald-400">github.com/pavlovoiat</a>',
         'fastfetch': `<div class="grid grid-cols-1 sm:grid-cols-2 gap-2 mt-2 p-2 bg-slate-950/50 rounded border border-slate-800/50 text-zinc-400">
@@ -14,12 +14,12 @@ document.addEventListener('DOMContentLoaded', () => {
                         <span class="text-emerald-400 font-semibold">OS:</span> Arch Linux x86_64<br>
                         <span class="text-emerald-400 font-semibold">WM:</span> Hyprland (Wayland)<br>
                         <span class="text-emerald-400 font-semibold">Shell:</span> bash<br>
-                        <span class="text-emerald-400 font-semibold">Editor:</span> VSCodium / Neovim
+                        <span class="text-emerald-400 font-semibold">Editor:</span> VSCodium
                     </div>
                     <div>
                         <span class="text-emerald-400 font-semibold">Target:</span> Ausbildung FIAE (2027)<br>
                         <span class="text-emerald-400 font-semibold">School:</span> Sickingen-Gymnasium (Kl. 13)<br>
-                        <span class="text-emerald-400 font-semibold">Main Language:</span> Kotlin, Java, Python<br>
+                        <span class="text-emerald-400 font-semibold">Main Language:</span> Kotlin<br>
                         <span class="text-emerald-400 font-semibold">VCS:</span> Git
                     </div>
                 </div>`
